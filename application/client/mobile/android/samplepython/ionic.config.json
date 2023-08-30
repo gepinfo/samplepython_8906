@@ -1,0 +1,7 @@
+{
+  "name": "samplepython",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
